@@ -13,7 +13,10 @@ Place the training, testing, and validation datasets in the `dogImages` folder.
 
 ### An output of the algoritm tested on a dog picture is the following:
 <center><a href="https://imgbb.com/"><img src="https://i.ibb.co/LRQy0VC/Screenshot-from-2020-06-07-20-43-46.png" alt="Screenshot-from-2020-06-07-20-43-46" border="0"></a></center>
+
 ### And for a human:
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/94xHfT7/Screenshot-from-2020-06-07-21-23-04.png" alt="Screenshot-from-2020-06-07-21-23-04" border="0"></a>
 
 #### I was concerned if the algorithm classifies as dogs other animals like a cat or a wolf for example. As it turned out the algorithm was able to recognize that this is not a dog but something that can not recognize.
 A good example was a cat that looked like a dog that I found in google. At first sight a human could say that this is not a cat but a cute little dog. Luckily our alogrithm recognized it correctly.
